@@ -1,5 +1,7 @@
 # CurrencyConverter
 
+![Build Status](https://api.travis-ci.com/Flight-School/CurrencyConverter.svg?branch=master)
+
 Utilities for doing currency conversion with the
 [Money](https://github.com/flight-school/money) library.
 
