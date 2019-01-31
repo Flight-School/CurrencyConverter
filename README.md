@@ -1,12 +1,12 @@
 # CurrencyConverter
 
-![Build Status](https://api.travis-ci.com/Flight-School/CurrencyConverter.svg?branch=master)
+[![Build Status][build status badge]][build status]
 
 Utilities for doing currency conversion with the
 [Money](https://github.com/flight-school/money) library.
 
 This functionality is discussed in Chapter 3 of
-[Flight School Guide to Swift Numbers](https://gumroad.com/l/swift-numbers).
+[Flight School Guide to Swift Numbers](https://flight.school/books/numbers).
 
 ## Requirements
 
@@ -78,3 +78,6 @@ MIT
 ## Contact
 
 Mattt ([@mattt](https://twitter.com/mattt))
+
+[build status]: https://travis-ci.org/Flight-School/CurrencyConverter
+[build status badge]: https://api.travis-ci.com/Flight-School/CurrencyConverter.svg?branch=master
