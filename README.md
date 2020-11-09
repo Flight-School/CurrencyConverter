@@ -79,5 +79,5 @@ MIT
 
 Mattt ([@mattt](https://twitter.com/mattt))
 
-[build status]: https://travis-ci.org/Flight-School/CurrencyConverter
-[build status badge]: https://api.travis-ci.com/Flight-School/CurrencyConverter.svg?branch=master
+[build status]: https://github.com/Flight-School/CurrencyConverter/actions?query=workflow%3ACI
+[build status badge]: https://github.com/Flight-School/CurrencyConverter/workflows/CI/badge.svg
