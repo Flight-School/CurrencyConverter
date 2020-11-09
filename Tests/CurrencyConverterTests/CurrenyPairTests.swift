@@ -18,9 +18,4 @@ final class CurrencyPairTests: XCTestCase {
         
         XCTAssertEqual(euros.amount, Decimal(string: "105.51"))
     }
-
-    static var allTests = [
-        ("testConvertTo", testConvertTo),
-        ("testConvertFrom", testConvertFrom)
-    ]
 }
